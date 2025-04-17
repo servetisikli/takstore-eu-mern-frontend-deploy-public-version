@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Smartphone",
+    "description": "Latest model smartphone with advanced features.",
+    "price": 69999,
+    "stock": 50,
+    "category": "electronics",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396266/smartphone_b0u5ap.jpg"
+  },
+  {
+    "name": "Laptop",
+    "description": "High performance laptop for gaming and work.",
+    "price": 99999,
+    "stock": 30,
+    "category": "electronics",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396266/laptop_kbvaxj.jpg"
+  },
+  {
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling over-ear headphones.",
+    "price": 19999,
+    "stock": 100,
+    "category": "electronics",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396263/bluetooth-speaker_k3jyef.jpg"
+  },
+  {
+    "name": "Smartwatch",
+    "description": "Stylish smartwatch with health tracking features.",
+    "price": 24999,
+    "stock": 75,
+    "category": "electronics",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396267/smartwatch_q6tfsd.jpg"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with high-quality sound.",
+    "price": 9999,
+    "stock": 120,
+    "category": "electronics",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739399993/bluetooth-speaker_sejh5f.jpg"
+  },
+  {
+    "name": "The Great Gatsby",
+    "description": "Classic novel by F. Scott Fitzgerald.",
+    "price": 1099,
+    "stock": 200,
+    "category": "books",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739394687/the-great-gatsby_e5ldpm.jpg"
+  },
+  {
+    "name": "1984",
+    "description": "Dystopian novel by George Orwell.",
+    "price": 899,
+    "stock": 150,
+    "category": "books",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739394682/1984_e9y616.jpg"
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "description": "Novel by Harper Lee.",
+    "price": 1299,
+    "stock": 180,
+    "category": "books",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739394698/to-kill-a-mockingbird_mpabyq.jpg"
+  },
+  {
+    "name": "The Catcher in the Rye",
+    "description": "Novel by J.D. Salinger.",
+    "price": 1199,
+    "stock": 170,
+    "category": "books",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739394695/the-catcher-in-the-rye_eecfdv.jpg"
+  },
+  {
+    "name": "Moby-Dick",
+    "description": "Novel by Herman Melville.",
+    "price": 1599,
+    "stock": 90,
+    "category": "books",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739394683/moby-dick_n2d9gp.jpg"
+  },
+  {
+    "name": "T-Shirt",
+    "description": "Comfortable cotton t-shirt.",
+    "price": 1999,
+    "stock": 300,
+    "category": "clothing",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396831/t-shirt_dpdtke.jpg"
+  },
+  {
+    "name": "Jeans",
+    "description": "Stylish denim jeans.",
+    "price": 4999,
+    "stock": 250,
+    "category": "clothing",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396268/jeans_lnnosw.jpg"
+  },
+  {
+    "name": "Jacket",
+    "description": "Warm and cozy winter jacket.",
+    "price": 8999,
+    "stock": 100,
+    "category": "clothing",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396265/jacket_lxtpr3.jpg"
+  },
+  {
+    "name": "Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "price": 5999,
+    "stock": 200,
+    "category": "clothing",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396268/sneakers_boupz1.jpg"
+  },
+  {
+    "name": "Hat",
+    "description": "Fashionable hat for all seasons.",
+    "price": 2499,
+    "stock": 150,
+    "category": "clothing",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396264/hat_ycbzl3.jpg"
+  },
+  {
+    "name": "Vacuum Cleaner",
+    "description": "Powerful vacuum cleaner with multiple attachments.",
+    "price": 12999,
+    "stock": 80,
+    "category": "home-appliances",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396267/vacum-cleaner_phqjfg.jpg"
+  },
+  {
+    "name": "Air Conditioner",
+    "description": "Energy-efficient air conditioner.",
+    "price": 29999,
+    "stock": 60,
+    "category": "home-appliances",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396263/air-conditioner_ydtv9d.jpg"
+  },
+  {
+    "name": "Microwave Oven",
+    "description": "Compact microwave oven with multiple settings.",
+    "price": 8999,
+    "stock": 110,
+    "category": "home-appliances",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396266/microwave-oven_ujuscz.jpg"
+  },
+  {
+    "name": "Refrigerator",
+    "description": "Spacious refrigerator with freezer.",
+    "price": 49999,
+    "stock": 40,
+    "category": "home-appliances",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396266/refrigerator_pm6rq3.jpg"
+  },
+  {
+    "name": "Washing Machine",
+    "description": "High-efficiency washing machine.",
+    "price": 39999,
+    "stock": 50,
+    "category": "home-appliances",
+    "imageUrl": "https://res.cloudinary.com/dsxzg8ncb/image/upload/v1739396268/washing-machine_hnetzz.jpg"
+  }
+]
